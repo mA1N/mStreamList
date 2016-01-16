@@ -4,6 +4,7 @@ Small PHP script for the sidebar on our website. It displays twitch.tv stream wi
 You can add more than 2 streams. Just add more $cX add the top. Where X is your number.
 After that just paste in the next code:
 
+```
 <?php
 $channelName = $cX;
 $x = '378';
@@ -28,3 +29,4 @@ echo "<p class='right'><img src='http://gaming.ntechit.de/wp-content/uploads/201
 ?>
 
 And remember to change the "$channelName = $cX;" as well.
+```
