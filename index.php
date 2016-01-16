@@ -54,7 +54,6 @@ echo "<div style='position:absolute;z-index:500;'><a href='http://twitch.tv/$cha
 echo "<p class='right'><img src='http://gaming.ntechit.de/wp-content/uploads/2015/11/follow.png'>&nbsp$follow&nbsp&nbsp&nbsp<img src='http://gaming.ntechit.de/wp-content/uploads/2015/11/view.png'>&nbsp$view</p></br>";
 
 } 
-
-<?php
+?>
 
 
